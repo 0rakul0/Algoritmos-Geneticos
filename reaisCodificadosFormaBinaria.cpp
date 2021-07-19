@@ -58,6 +58,4 @@ main(){
 	result2 = faixa2X + x2 * (faixa2Y-faixa2X)/(pow(2,bits)-1);
 	
 printf("\n\nresultado da faixa [ %f , %f ]\n", result1, result2 );
-
-system('pause');
 }
